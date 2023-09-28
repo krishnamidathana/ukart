@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ukart/static/css/main.951d00ee.css",
+    "main.js": "/ukart/static/js/main.dbf58f63.js",
+    "index.html": "/ukart/index.html",
+    "main.951d00ee.css.map": "/ukart/static/css/main.951d00ee.css.map",
+    "main.dbf58f63.js.map": "/ukart/static/js/main.dbf58f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951d00ee.css",
+    "static/js/main.dbf58f63.js"
+  ]
+}
